@@ -3,7 +3,7 @@ import 'package:crypto/crypto.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
 
-class FlutterUdid {
+class CirrusFlutterUdid {
   static const MethodChannel _channel = const MethodChannel('flutter_udid');
 
   static Future<String> get udid async {
