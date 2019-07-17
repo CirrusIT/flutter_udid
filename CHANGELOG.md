@@ -1,4 +1,13 @@
+
+## 2.0.0+2
+
+* Changin Swift header for iOS
+
 ## 2.0.0+1
+
+* Adding podspec for IOS
+
+## 2.0.0
 
 * Migrating project to AndroidX
 

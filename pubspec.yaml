@@ -1,6 +1,6 @@
 name: cirrus_flutter_udid
 description: Fork of plugin for getting a persistent UDID accross reinstalls on iOS and Android (AndroidX support)
-version: 2.0.0+1
+version: 2.0.0+2
 author: Leon Kukuk <leon@kukuk.me>
 homepage: https://github.com/CirrusIT/flutter_udid
 
