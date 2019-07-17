@@ -1,3 +1,7 @@
+## 2.0.0
+
+* Migrating project to AndroidX
+
 ## 1.0.0
 
 * Update Gradle and Kotlin plugins
